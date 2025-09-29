@@ -26,13 +26,13 @@ It allows users to enter any text, select a voice, and listen to the text being 
 ---
 
 ## 📂 Project Structure
-
+```
 📁 text-to-speech-converter
 ┣ 📜 index.html # Main HTML page
 ┣ 📜 style.css # Styling and theme
 ┣ 📜 script.js # JavaScript logic for TTS
 ┗ 📁 images # Contains play button and dropdown icons
-
+```
 
 ---
 
